@@ -8,8 +8,8 @@
 ### Sobre o projeto
 Criamos o projeto Winery, onde fazemos a publicação de serviços na nossa API SOAP. 
 
-- Rodar o Loader no WinerySys
-- Serviços publicados
+- Em Publisher rodar o Loader no WinerySys
+- Serviços publicados, agora vamos para Consumer
 - Com o Loader ainda rodando, verificar o menu em WineStockClient
 - Fazer o pedido em WineOrderClient
 - Dependendo do pedido chegará um warning de estoque indiponível
